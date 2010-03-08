@@ -16,4 +16,4 @@ perm_gen.o: 	perm_gen.c primes.h
 		$(CC) -O3  -c perm_gen.c
 
 clean:
-		rm -rf *.o
+		rm -f *.o tturns_small
