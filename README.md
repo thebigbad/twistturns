@@ -41,3 +41,8 @@ I don't know if I'll get back to this project, but...
 * primes.c seems to be using a dingy variation of the [sieve](http://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf). run benchmark on this and the related project euler [answer](http://github.com/thebigbad/proud-jack-foiler/blob/master/010/010.pl)--I can do better.
 * also, why does this project even need primes? before that benchmarking, see if we can pull this out entirely.
 * see if I can make the permutations bit more generic for I can reuse this code for the "book of tic-tac-toe" project
+
+License
+---
+
+TwistTurns is released under the MIT License. See LICENSE for more details.
